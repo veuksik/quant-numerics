@@ -10,7 +10,7 @@ and pricing, implemented from scratch and tested against analytical results.
     uv sync
     uv run pytest
 
-Requires Python 3.12+ and [uv](https://docs.astral.sh/uv/).
+Requires Python 3.14+ and [uv](https://docs.astral.sh/uv/).
 
 ## Principles
 
