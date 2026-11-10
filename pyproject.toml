@@ -1,10 +1,10 @@
 [project]
 name = "quant-numerics"
 version = "0.1.0"
-description = "Add your description here"
+description = "Build some side projects"
 readme = "README.md"
 authors = [
-    { name = "crs", email = "k.maslanka.pv@gmail.com" }
+    { name = "crs" }
 ]
 requires-python = ">=3.14"
 dependencies = [
